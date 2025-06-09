@@ -19,3 +19,7 @@
 ^LICENSE$
 ^CONTRIBUTING\.md$
 ^CRAN-SUBMISSION$
+^DESCRIPTION\.bak$
+^autoci\.yml$
+^autoci_pkgdown\.yml$
+^tic\.R$
